@@ -1,0 +1,35 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.flexible-area{
+    display: flex;
+    margin-bottom: 100%;
+}
+.color-orange{
+    color: rgb(243, 81, 52);
+    font-size: xx-large;
+}
+.half-width img{
+    width: 80%;
+    
+}
+.half-width{
+    width: 70%;
+    padding-left: 15%;
+   
+}
+.border{
+    padding-
+    border-left: 50px solid;
+}
+.explore-button{
+    text-defont-weight:700;
+    background-color: rgb(245, 70, 39);
+    color:#ffffff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;coration: none;
+
+}
